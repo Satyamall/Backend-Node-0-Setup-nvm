@@ -10,3 +10,4 @@
 4. To verify that nvm has been installed, do:
 
 - command -v nvm
+![Screenshot (112)](https://user-images.githubusercontent.com/80479635/151222242-54f9685f-c4f9-4a9f-9b0c-9c0c7745c511.png)
